@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/alphabetic_list/src/AlphabeticList.cc
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+AlphabeticList.h
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/alphabetic_list/src/AlphabeticList.h
+
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/alphabetic_list/src/AlphabeticList.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/alphabetic_list/src/TextCheck.cc
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+

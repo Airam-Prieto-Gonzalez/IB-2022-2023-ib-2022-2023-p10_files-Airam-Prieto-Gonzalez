@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/VowelAndConsonant.dir/src/CompruebaTexto.cc.o CMakeFiles/VowelAndConsonant.dir/src/Consonant.cc.o CMakeFiles/VowelAndConsonant.dir/src/Vowel.cc.o CMakeFiles/VowelAndConsonant.dir/src/VowelAndConsonant.cc.o  -o VowelAndConsonant 
