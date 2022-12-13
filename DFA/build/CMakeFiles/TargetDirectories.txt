@@ -1,0 +1,3 @@
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/DFA/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/DFA/build/CMakeFiles/edit_cache.dir
+/home/usuario/IB-2022-2023-ib-2022-2023-p10_files-Airam-Prieto-Gonzalez/DFA/build/CMakeFiles/DFA.dir

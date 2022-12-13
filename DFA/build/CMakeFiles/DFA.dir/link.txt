@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/DFA.dir/src/read_DFA.cc.o  -o DFA 
